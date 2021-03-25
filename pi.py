@@ -1,3 +1,4 @@
+#question about finding amstrong number
 n=int(input("enter no:\n"))
 x=n
 a=n
