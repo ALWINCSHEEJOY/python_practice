@@ -1,6 +1,4 @@
 #question about finding amstrong number
-check update
-
 n=int(input("enter no:\n"))
 x=n
 a=n
